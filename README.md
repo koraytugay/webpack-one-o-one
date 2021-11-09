@@ -11,3 +11,6 @@ Also try:
 - `npm run build-dev`
 - `npm run build-prod`
 - `npm run watch`
+
+## Reminder
+`webpack-dev-server` does not build your files. There will not be a `dist` folder when you run `webpack serve`.. 
